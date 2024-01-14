@@ -2,7 +2,7 @@
 import java.util.Scanner;
 // import org.junit.jupiter.api.Test;
 
-public class Main {
+public class Loops {
   public static void main(String[] args) {
     int valueEntered = 10;
 
